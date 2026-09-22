@@ -1,8 +1,10 @@
-# Shipping Calculator Web Application
+# This is the README.md file for the **github-final-project**
 
-## Overview
-This repository contains the shipping logistics calculation tool developed for supply chain management and delivery cost estimations.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Features
-- Simple calculation script for shipping and rate estimations.
-- Open-source governance documentation and community guidelines.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
